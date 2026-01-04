@@ -1,33 +1,30 @@
 |-- .gitignore
 |-- CMakeLists.txt
-|-- Data_structures
+|-- DataStructures
     |-- Array
-        |-- patterns
-            |-- sliding_window
-                |-- output
-                    |-- SubarrayWithSumK.exe
-                |-- SubarrayWithSumK.cpp
-                |-- SubarrayWithSumK.exe
+        |-- pattern
+        |-- SubarrayWithSumK.cpp
+        |-- SubarrayWithSumK.exe
+    |-- linked list
+        |-- ll.cPP
+        |-- ll.exe
+        |-- output
+            |-- ll.exe
+    |-- S&Q
+        |-- NextGreatest.cpp
+        |-- NextGreatest.exe
+        |-- stack.cpp
+        |-- stack.exe
+    |-- strings
+        |-- st.cpp
+        |-- st.exe
 |-- first.cpp
 |-- first.exe
 |-- java
     |-- lab.class
     |-- lab.java
-|-- linked list
-    |-- ll.cPP
-    |-- ll.exe
-    |-- output
-        |-- ll.exe
 |-- output
     |-- first.exe
-|-- S&Q
-    |-- NextGreatest.cpp
-    |-- NextGreatest.exe
-    |-- stack.cpp
-    |-- stack.exe
-|-- strings
-    |-- st.cpp
-    |-- st.exe
 |-- TCS
     |-- output
         |-- tcs.exe

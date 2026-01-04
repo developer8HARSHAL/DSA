@@ -3,6 +3,7 @@
 #include <unordered_map>
 using namespace std;
 
+//prefix sum & hashmap
     int subarraySum(vector<int>& nums, int k) {
         unordered_map<int,int> sumorder;
         sumorder[0]=1;
