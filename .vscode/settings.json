@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "iostream": "cpp",
+        "stack": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
+
+
+
+
