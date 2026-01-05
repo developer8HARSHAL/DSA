@@ -2,7 +2,9 @@
 |-- CMakeLists.txt
 |-- DataStructures
     |-- Array
-        |-- pattern
+        |-- RotatArrayWithK.exe
+        |-- RotateArrayWithK.cpp
+        |-- RotateArrayWithK.exe
         |-- SubarrayWithSumK.cpp
         |-- SubarrayWithSumK.exe
     |-- linked list
