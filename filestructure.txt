@@ -2,6 +2,8 @@
 |-- CMakeLists.txt
 |-- DataStructures
     |-- Array
+        |-- MissingNumber.cpp
+        |-- MissingNumber.exe
         |-- RotatArrayWithK.exe
         |-- RotateArrayWithK.cpp
         |-- RotateArrayWithK.exe
