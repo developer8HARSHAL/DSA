@@ -2,6 +2,8 @@
 |-- CMakeLists.txt
 |-- DataStructures
     |-- Array
+        |-- FindingDuplicateNumber.cpp
+        |-- FindingDuplicateNumber.exe
         |-- MissingNumber.cpp
         |-- MissingNumber.exe
         |-- RotatArrayWithK.exe
