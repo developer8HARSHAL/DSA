@@ -2,8 +2,11 @@
 |-- CMakeLists.txt
 |-- DataStructures
     |-- Array
+        |-- CheckIfArrayIsSortedAndRotated.cpp
         |-- FindingDuplicateNumber.cpp
         |-- FindingDuplicateNumber.exe
+        |-- MajorityElement.cpp
+        |-- MajorityElement.exe
         |-- MissingNumber.cpp
         |-- MissingNumber.exe
         |-- RotatArrayWithK.exe
@@ -11,6 +14,8 @@
         |-- RotateArrayWithK.exe
         |-- SubarrayWithSumK.cpp
         |-- SubarrayWithSumK.exe
+        |-- ValidPalindrome.cpp
+        |-- ValidPalindrome.exe
     |-- linked list
         |-- ll.cPP
         |-- ll.exe
