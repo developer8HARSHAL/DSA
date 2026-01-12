@@ -2,13 +2,21 @@
 |-- CMakeLists.txt
 |-- DataStructures
     |-- Array
+        |-- BuyAndSell.cpp
+        |-- BuyAndSell.exe
         |-- CheckIfArrayIsSortedAndRotated.cpp
+        |-- CoinChange.cpp
+        |-- CoinChange.exe
         |-- FindingDuplicateNumber.cpp
         |-- FindingDuplicateNumber.exe
+        |-- FirstAndLastPositionOfElement.cpp
+        |-- FirstAndLastPositionOfElement.exe
         |-- MajorityElement.cpp
         |-- MajorityElement.exe
         |-- MissingNumber.cpp
         |-- MissingNumber.exe
+        |-- ReverseWordInString.cpp
+        |-- ReverseWordInString.exe
         |-- RotatArrayWithK.exe
         |-- RotateArrayWithK.cpp
         |-- RotateArrayWithK.exe
