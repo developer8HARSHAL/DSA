@@ -4,7 +4,7 @@
 using namespace std;
 
 
-// USING HASHMAP_MAP.
+// USING HASHMAP_MAP
 
     int majorityElement(vector<int>& nums) {
         unordered_map<int,int>map;
