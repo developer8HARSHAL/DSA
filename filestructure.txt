@@ -9,10 +9,14 @@
         |-- CoinChange.exe
         |-- FindingDuplicateNumber.cpp
         |-- FindingDuplicateNumber.exe
+        |-- FindPeakElement.cpp
+        |-- FindPeakElement.exe
         |-- FirstAndLastPositionOfElement.cpp
         |-- FirstAndLastPositionOfElement.exe
         |-- MajorityElement.cpp
         |-- MajorityElement.exe
+        |-- MinimunPositiveSumSubarray.cpp
+        |-- MinimunPositiveSumSubarray.exe
         |-- MissingNumber.cpp
         |-- MissingNumber.exe
         |-- ReverseWordInString.cpp
