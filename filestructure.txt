@@ -1,0 +1,59 @@
+|-- .gitignore
+|-- CMakeLists.txt
+|-- DataStructures
+    |-- Array
+        |-- BuyAndSell.cpp
+        |-- BuyAndSell.exe
+        |-- CheckIfArrayIsSortedAndRotated.cpp
+        |-- CoinChange.cpp
+        |-- CoinChange.exe
+        |-- FindingDuplicateNumber.cpp
+        |-- FindingDuplicateNumber.exe
+        |-- FindPeakElement.cpp
+        |-- FindPeakElement.exe
+        |-- FirstAndLastPositionOfElement.cpp
+        |-- FirstAndLastPositionOfElement.exe
+        |-- IndexesOfSubarraySum.cpp
+        |-- IndexesOfSubarraySum.exe
+        |-- MajorityElement.cpp
+        |-- MajorityElement.exe
+        |-- MinimunPositiveSumSubarray.cpp
+        |-- MinimunPositiveSumSubarray.exe
+        |-- MissingNumber.cpp
+        |-- MissingNumber.exe
+        |-- PrintDuplicateCharactersFromString.exe
+        |-- ReverseWordInString.exe
+        |-- RotatArrayWithK.exe
+        |-- RotateArrayWithK.cpp
+        |-- RotateArrayWithK.exe
+        |-- SubarrayWithSumK.cpp
+        |-- SubarrayWithSumK.exe
+        |-- ValidPalindrome.exe
+    |-- linked list
+        |-- ll.cPP
+        |-- ll.exe
+        |-- output
+            |-- ll.exe
+    |-- S&Q
+        |-- NextGreatest.cpp
+        |-- NextGreatest.exe
+        |-- stack.cpp
+        |-- stack.exe
+    |-- strings
+        |-- PrintDuplicateCharactersFromString.cpp
+        |-- ReverseWordInString.cpp
+        |-- st.cpp
+        |-- st.exe
+        |-- ValidPalindrome.cpp
+|-- first.cpp
+|-- first.exe
+|-- java
+    |-- lab.class
+    |-- lab.java
+|-- output
+    |-- first.exe
+|-- TCS
+    |-- output
+        |-- tcs.exe
+    |-- tcs.cpp
+    |-- tcs.exe

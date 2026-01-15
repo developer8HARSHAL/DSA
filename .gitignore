@@ -1,0 +1,16 @@
+# Compiled binaries
+*.exe
+*.out
+*.class
+
+# Output folders
+output/
+*/output/
+
+# Build folders (future-proof)
+build/
+bin/
+
+# OS files
+.DS_Store
+Thumbs.db
